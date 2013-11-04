@@ -1,0 +1,4 @@
+# no .class files
+*.class
+# ignore all files in the build/ directory
+build/
