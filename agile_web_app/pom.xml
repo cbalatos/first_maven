@@ -4,13 +4,13 @@
   <parent>
         <artifactId>first</artifactId>
         <groupId>gr.gsis.agile.first</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.2-SNAPSHOT</version>
     </parent>
 
   <groupId>gr.gsis.agile.first</groupId>
   <artifactId>agile_web_app</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
 
   <name>agile_web_app</name>
   <url>http://maven.apache.org</url>

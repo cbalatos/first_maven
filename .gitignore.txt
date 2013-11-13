@@ -1,4 +1,5 @@
 # no .class files
 *.class
 # ignore all files in the build/ directory
-build/
+*/build/
+*/m2e-wtp/
